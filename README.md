@@ -19,7 +19,7 @@ as always, backup your project file first before testing.  YOU ONLY HAVE 1 RESTO
 starting example
 <img width="671" height="497" alt="Screenshot 2026-01-05 191223" src="https://github.com/user-attachments/assets/b07ebe36-e275-4909-9f9b-93333cfe662f" /><br><br>
 
-exapanding terrain by 10meters
+exapanding texture by 10meters
 <img width="699" height="530" alt="Screenshot 2026-01-05 191203" src="https://github.com/user-attachments/assets/ae627b04-e44c-4518-a200-bf669df46c16" /><br><br>
 
 making layered textures
