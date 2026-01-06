@@ -12,9 +12,9 @@ use live preview to see where the yellow lines/dots are to know which terrain ar
 it automatically makes a backup of your terrain and gives a restore button if you dont like what occurred.
 as always, backup your project file first before testing.  YOU ONLY HAVE 1 RESTORE POINT so USE IT if you want to go back to previous terrain
 
-**NOTES
- *YOU ONLY HAVE 1 RESTORE POINT so USE IT if you want to go back to previous terrain
- *The larger the expansion the longer it may take to process in unity, be patient.
+**NOTES<br><br>
+ *YOU ONLY HAVE 1 RESTORE POINT so USE IT if you want to go back to previous terrain<br>
+ *The larger the expansion the longer it may take to process in unity, be patient.<br><br>
 
 starting example
 <img width="671" height="497" alt="Screenshot 2026-01-05 191223" src="https://github.com/user-attachments/assets/b07ebe36-e275-4909-9f9b-93333cfe662f" /><br><br>
