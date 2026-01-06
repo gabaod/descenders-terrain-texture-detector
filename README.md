@@ -10,4 +10,4 @@ then choose what texture you want to replace it with or use the same as you have
 use live preview to see where the yellow lines/dots are to know which terrain areas will be changed.
 
 it automatically makes a backup of your terrain and gives a restore button if you dont like what occurred.
-as always, backup your project file first before testing.
+as always, backup your project file first before testing.  YOU ONLY HAVE 1 RESTORE POINT so USE IT if you want to go back to previous terrain
