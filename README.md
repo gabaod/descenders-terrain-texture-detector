@@ -28,5 +28,8 @@ making layered textures
 quickly swapping textures
 <img width="743" height="535" alt="Screenshot 2026-01-05 191615" src="https://github.com/user-attachments/assets/1960162f-95f4-4132-9de5-93d718bd7118" /><br><br>
 
+replacing just the sand texture to be larger within the blue box zone only.
+<img width="655" height="496" alt="Screenshot 2026-01-11 183306" src="https://github.com/user-attachments/assets/22ffd6b0-6c8b-475e-8328-118f5dc26c0b" /><br><br>
+
 the ui
 <img width="617" height="853" alt="Screenshot 2026-01-05 191459" src="https://github.com/user-attachments/assets/10e4f04f-b35e-4734-ae0b-268c0e6cabd1" />
